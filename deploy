@@ -1,6 +1,6 @@
 #!/bin/bash
 
 javac odd.java
-java Odd
+java odd
 
 cp index.html /var/www/html
